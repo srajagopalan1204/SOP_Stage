@@ -436,8 +436,16 @@
 
   <script>
     // Version: v20251213_1418 (America/New_York)
-    const HOME_URL = "index.html";
-    const ENTITY_MENU_URL = "index.html#entity-menu";
+    const SITE_ROOT = (() => {
+      // For GitHub Pages project sites:
+      // /<repo>/outputs/players/<file>.html  ->  /<repo>/
+      const parts = window.location.pathname.split("/").filter(Boolean);
+      return parts.length ? `/${parts[0]}/` : "/";
+    })();
+
+    const HOME_URL = SITE_ROOT;
+    const ENTITY_MENU_URL = SITE_ROOT; // (no anchor on index yet)
+
 
     const story = JSON.parse(
       document.getElementById("story-data").textContent.trim()
