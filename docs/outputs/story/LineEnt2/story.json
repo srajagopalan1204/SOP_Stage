@@ -6,7 +6,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S000",
       "title": "S000. Opening Slide for Sales Order Line Entry Deck",
-      "image": "/outputs/images/LineEnt2/S000.png",
+      "image": "../images/LineEnt2/S000.png",
       "decision_question": "",
       "choices": [
         {
@@ -35,7 +35,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S001",
       "title": "S001. About Scott Electric and Welcome to Training",
-      "image": "/outputs/images/LineEnt2/S001.png",
+      "image": "../images/LineEnt2/S001.png",
       "decision_question": "",
       "choices": [
         {
@@ -64,7 +64,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S002",
       "title": "S002. Quote to Cash Work Flow At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S002.png",
+      "image": "../images/LineEnt2/S002.png",
       "decision_question": "",
       "choices": [
         {
@@ -93,7 +93,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S003",
       "title": "S003. Pictorial representation of Quote to Cash - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S003.png",
+      "image": "../images/LineEnt2/S003.png",
       "decision_question": "",
       "choices": [
         {
@@ -122,7 +122,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "M1",
       "title": "M1. Sales Order Line Entry - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/M1.png",
+      "image": "../images/LineEnt2/M1.png",
       "decision_question": "",
       "choices": [
         {
@@ -151,7 +151,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "D1",
       "title": "D1. A decision on whether the user want to enter lines using \"Easy\" entry - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/D1.png",
+      "image": "../images/LineEnt2/D1.png",
       "decision_question": "A decision on whether the user want to enter lines using \"Easy\" entry ?",
       "choices": [
         {
@@ -184,7 +184,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "Y1",
       "title": "Y1. User has selected Easy entry - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/Y1.png",
+      "image": "../images/LineEnt2/Y1.png",
       "decision_question": "",
       "choices": [
         {
@@ -213,7 +213,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S1",
       "title": "S1. Easy Line entry Selected- At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S1.png",
+      "image": "../images/LineEnt2/S1.png",
       "decision_question": "",
       "choices": [
         {
@@ -242,7 +242,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S2",
       "title": "S2. Search Products to add - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S2.png",
+      "image": "../images/LineEnt2/S2.png",
       "decision_question": "",
       "choices": [
         {
@@ -271,7 +271,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S3",
       "title": "S3. Enter the Quantity required - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S3.png",
+      "image": "../images/LineEnt2/S3.png",
       "decision_question": "",
       "choices": [
         {
@@ -300,7 +300,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S4",
       "title": "S4. Add additional product to Sales order - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S4.png",
+      "image": "../images/LineEnt2/S4.png",
       "decision_question": "What would you like to do, go to the End of the path or go to the next suggested Decision in this SOP?",
       "choices": [
         {
@@ -333,7 +333,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "D2",
       "title": "D2. A decision on whether the user want to enter lines using \"Shopping List\" entry - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/D2.png",
+      "image": "../images/LineEnt2/D2.png",
       "decision_question": "A decision on whether the user want to enter lines using \"Shopping List\" entry ?",
       "choices": [
         {
@@ -366,7 +366,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "Y2",
       "title": "Y2. Yes, Line entry using shopping list is being used - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/Y2.png",
+      "image": "../images/LineEnt2/Y2.png",
       "decision_question": "",
       "choices": [
         {
@@ -395,7 +395,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S5",
       "title": "S5. Shopping List Entry - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S5.png",
+      "image": "../images/LineEnt2/S5.png",
       "decision_question": "",
       "choices": [
         {
@@ -424,7 +424,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S6",
       "title": "S6. select shopping list type - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S6.png",
+      "image": "../images/LineEnt2/S6.png",
       "decision_question": "",
       "choices": [
         {
@@ -453,7 +453,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S7",
       "title": "S7. Enter List Criteria - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S7.png",
+      "image": "../images/LineEnt2/S7.png",
       "decision_question": "",
       "choices": [
         {
@@ -482,7 +482,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S8",
       "title": "S8. Enter Quantity - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S8.png",
+      "image": "../images/LineEnt2/S8.png",
       "decision_question": "",
       "choices": [
         {
@@ -511,7 +511,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S9",
       "title": "S9. Add additional products to the list - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S9.png",
+      "image": "../images/LineEnt2/S9.png",
       "decision_question": "What would you like to do, go to the End of the path or go to the next suggested Decision in this SOP?",
       "choices": [
         {
@@ -544,7 +544,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "D3",
       "title": "D3. A decision on to enter line items using \"Quick\" entry needs to be taken - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/D3.png",
+      "image": "../images/LineEnt2/D3.png",
       "decision_question": "Add additional products to the list?",
       "choices": [
         {
@@ -577,7 +577,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "Y3",
       "title": "Y3. Yes, Quick line entry was selected - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/Y3.png",
+      "image": "../images/LineEnt2/Y3.png",
       "decision_question": "",
       "choices": [
         {
@@ -606,7 +606,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S10",
       "title": "S10. Quick line entry - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S10.png",
+      "image": "../images/LineEnt2/S10.png",
       "decision_question": "",
       "choices": [
         {
@@ -635,7 +635,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S11",
       "title": "S11. Enter Product Number - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S11.png",
+      "image": "../images/LineEnt2/S11.png",
       "decision_question": "",
       "choices": [
         {
@@ -664,7 +664,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S12",
       "title": "S12. Enter Quantity required - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S12.png",
+      "image": "../images/LineEnt2/S12.png",
       "decision_question": "",
       "choices": [
         {
@@ -693,7 +693,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S13",
       "title": "S13. Enter Price Optional as system would offer best price for the customer- At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S13.png",
+      "image": "../images/LineEnt2/S13.png",
       "decision_question": "",
       "choices": [
         {
@@ -722,7 +722,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "D4",
       "title": "D4. Last product? - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/D4.png",
+      "image": "../images/LineEnt2/D4.png",
       "decision_question": "Last product?",
       "choices": [
         {
@@ -755,7 +755,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "Y4",
       "title": "Y4. Yes, No more products to enter - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/Y4.png",
+      "image": "../images/LineEnt2/Y4.png",
       "decision_question": "",
       "choices": [
         {
@@ -784,7 +784,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S14",
       "title": "S14. Add Quick List lines - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S14.png",
+      "image": "../images/LineEnt2/S14.png",
       "decision_question": "What would you like to do, go to the End of the path or go to the next suggested Decision in this SOP?",
       "choices": [
         {
@@ -817,7 +817,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "N1",
       "title": "N1. No, the user is not using Easy line Entry - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/N1.png",
+      "image": "../images/LineEnt2/N1.png",
       "decision_question": "",
       "choices": [
         {
@@ -846,7 +846,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "N2",
       "title": "N2. No, the user is not using \"Shopping List\" Entry - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/N2.png",
+      "image": "../images/LineEnt2/N2.png",
       "decision_question": "",
       "choices": [
         {
@@ -875,7 +875,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "N3",
       "title": "N3. No, the user is not using \"Quick Line\" Entry - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/N3.png",
+      "image": "../images/LineEnt2/N3.png",
       "decision_question": "",
       "choices": [
         {
@@ -904,7 +904,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S15",
       "title": "S15. Advanced line entry selected - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S15.png",
+      "image": "../images/LineEnt2/S15.png",
       "decision_question": "",
       "choices": [
         {
@@ -933,7 +933,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S16",
       "title": "S16. Enter Product Info - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S16.png",
+      "image": "../images/LineEnt2/S16.png",
       "decision_question": "",
       "choices": [
         {
@@ -962,7 +962,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "D5",
       "title": "D5. Was Product found ?- At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/D5.png",
+      "image": "../images/LineEnt2/D5.png",
       "decision_question": "Was Product found ?",
       "choices": [
         {
@@ -995,7 +995,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "Y5",
       "title": "Y5. Yes, Product was found - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/Y5.png",
+      "image": "../images/LineEnt2/Y5.png",
       "decision_question": "",
       "choices": [
         {
@@ -1024,7 +1024,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S17",
       "title": "S17. Product Selected - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S17.png",
+      "image": "../images/LineEnt2/S17.png",
       "decision_question": "",
       "choices": [
         {
@@ -1053,7 +1053,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S18",
       "title": "S18. Enter Qty /UOM - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S18.png",
+      "image": "../images/LineEnt2/S18.png",
       "decision_question": "",
       "choices": [
         {
@@ -1082,7 +1082,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "D6",
       "title": "D6. Is this a Build on Demand Product? - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/D6.png",
+      "image": "../images/LineEnt2/D6.png",
       "decision_question": "Is this a Build on Demand Product?",
       "choices": [
         {
@@ -1115,7 +1115,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "Y6",
       "title": "Y6. Yes, it is a build on Demand Product - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/Y6.png",
+      "image": "../images/LineEnt2/Y6.png",
       "decision_question": "",
       "choices": [
         {
@@ -1144,7 +1144,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S19",
       "title": "S19. Create Add Kit Components - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S19.png",
+      "image": "../images/LineEnt2/S19.png",
       "decision_question": "What would you like to do, go to the End of the path or go to the next suggested Decision in this SOP?",
       "choices": [
         {
@@ -1177,7 +1177,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S21",
       "title": "S21. Confirm Pricing - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S21.png",
+      "image": "../images/LineEnt2/S21.png",
       "decision_question": "",
       "choices": [
         {
@@ -1206,7 +1206,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S22",
       "title": "S22. Add lines to sales order - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S22.png",
+      "image": "../images/LineEnt2/S22.png",
       "decision_question": "",
       "choices": [
         {
@@ -1235,7 +1235,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "N4",
       "title": "N4. No, This is not the last item requested by the customer - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/N4.png",
+      "image": "../images/LineEnt2/N4.png",
       "decision_question": "",
       "choices": [
         {
@@ -1264,7 +1264,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "N6",
       "title": "N6. No, It is not a Build on demand Product - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/N6.png",
+      "image": "../images/LineEnt2/N6.png",
       "decision_question": "",
       "choices": [
         {
@@ -1293,7 +1293,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "N5",
       "title": "N5. No, Product was not found - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/N5.png",
+      "image": "../images/LineEnt2/N5.png",
       "decision_question": "",
       "choices": [
         {
@@ -1322,7 +1322,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S20",
       "title": "S20. Create Non-Stock Product - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S20.png",
+      "image": "../images/LineEnt2/S20.png",
       "decision_question": "What would you like to do, go to the End of the path or go to the next suggested Decision in this SOP?",
       "choices": [
         {
@@ -1355,7 +1355,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S998",
       "title": "S998. You've reached the end of this path - At SE Electrical Distribution",
-      "image": "/outputs/images/LineEnt2/S998.png",
+      "image": "../images/LineEnt2/S998.png",
       "decision_question": "",
       "choices": [
         {
@@ -1384,7 +1384,7 @@
       "sop_id": "LineEnt2",
       "frame_code": "S999",
       "title": "S999. You have successfully completed this SOP",
-      "image": "/outputs/images/LineEnt2/S999.png",
+      "image": "../images/LineEnt2/S999.png",
       "decision_question": "",
       "choices": [],
       "narr1": "Slide S999. You have successfully completed this SOP-  You have successfully completed this SOP.",
