@@ -2,8 +2,11 @@
 <!--
   File: index.html
   Purpose: SOP_Stage landing page (Stage / Integration test menu)
-  Version: SOP_STAGE_INDEX_v1.0
-  Date: 2025-12-13 (America/New_York)
+  Version: SOP_STAGE_INDEX_v1.1
+  Date: 2025-12-14 (America/New_York)
+  Owner: Subi
+  Change: Added "Line Entry Options (New)" -> outputs/players/LineEnt_player.html
+          Kept "Line Entry Options (Ref - LineEnt2)" -> outputs/players/LineEnt2_player.html
 -->
 <html lang="en">
 <head>
@@ -323,10 +326,18 @@
               <small>Order to Pick – converting a confirmed order into a pick ticket.</small><br />
               <a class="btn primary coming-soon" href="#">Coming soon</a>
             </li>
+
+            <!-- NEW: LineEnt (new build) -->
             <li>
-              <strong>Line Entry Options</strong><br />
-              <small>Line Entry Options – Various options to enter Sales order lines (Easy, Quick, etc.).</small><br />
-              <!-- LIVE: Stage test module -->
+              <strong>Line Entry Options (New)</strong><br />
+              <small>Line Entry Options – NEW player build (LineEnt).</small><br />
+              <a class="btn primary live" href="outputs/players/LineEnt_player.html">Open</a>
+            </li>
+
+            <!-- REF: LineEnt2 (existing reference module) -->
+            <li>
+              <strong>Line Entry Options (Ref - LineEnt2)</strong><br />
+              <small>Reference player (LineEnt2) kept for comparison.</small><br />
               <a class="btn primary live" href="outputs/players/LineEnt2_player.html">Open</a>
             </li>
           </ul>
