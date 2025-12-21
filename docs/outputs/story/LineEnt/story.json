@@ -156,7 +156,7 @@
       "choices": [
         {
           "to": "Y1",
-          "label": "Not using Easy Entry"
+          "label": "Yes, using Easy Entry"
         },
         {
           "to": "N1",
