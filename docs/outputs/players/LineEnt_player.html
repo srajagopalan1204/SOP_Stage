@@ -13,7 +13,12 @@
    - Narration pane close button + ESC
    - Fix FAQ/Quiz href building so loc like "outputs/faq" doesn't become /outputs/outputs/faq
    - Defensive fix: if story.json image is "/../images/..." we strip the leading "/" before setting src
--->
+  HOTFIX 2025-12-21
+     Reason: Decision button label mis-generated from story.json
+     ix: Edited button label directly in player.html
+     NOTE: Must be upstreamed to CSV / story generation before next rebuild
+
+ -->
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -344,8 +349,8 @@
 
   <script>
     // Version: v20251213_2315 (America/New_York)
-    const HOME_URL = "index.html";
-    const ENTITY_MENU_URL = "index.html#entity-menu";
+    const HOME_URL = "/SOP_Stage/";
+    const ENTITY_MENU_URL = "/SOP_Stage/";
 
     const story = JSON.parse(document.getElementById("story-data").textContent.trim());
     const framesByCode = new Map();
