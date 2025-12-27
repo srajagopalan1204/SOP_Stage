@@ -394,7 +394,7 @@
       "FAQ_Loc": "",
       "FAQ_File": "",
       "FAQ_Label": "",
-      "Quiz_Loc": "../outputs/quiz",
+      "Quiz_Loc": "../quiz",
       "Quiz_File": "PPS_PMA_quiz.html",
       "Quiz_Label": "Check your understanding of the PMA process",
       "meta": {
